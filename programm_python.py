@@ -1,6 +1,3 @@
-#def common_member(a, b): 
-#    array_a = set(a) 
-#    array_b = set(b) 
 a = ["test" , "service2" , "dev" , "service4" , "test5" , "test6" , "test7" , "service8" , "prod"] 
 b = ["test6" , "service2" , "service4" , "service8"] 
 
